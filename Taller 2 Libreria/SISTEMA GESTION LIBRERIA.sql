@@ -1,5 +1,7 @@
 ----  EJERCICIO PRÁCTICO : SISTEMA DE GESTIÓN DE UNA LIBRERIA
 
+--- validar cambios en el repositorio
+
 CREATE DATABASE LIBRERIA
 GO
 
